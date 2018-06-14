@@ -1,0 +1,5 @@
+nohup: ignoring input
+hello
+ (巡航系统 AND 车载)  OR  (远程找车 AND 车载)  OR (实时路况 AND 车载) OR  (高德地图 AND 车载) 
+./output/实时路况_frequency_day_2018-04-24-20-41.png
+./output/实时路况_ratio_day_2018-04-24-20-41.png

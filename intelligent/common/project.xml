@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<servers>
+    <server name = 'intention'>
+       <log>intention</log>
+       <conf>intention/conf</conf>
+       <modelpath>intention/model</modelpath>
+       <models>
+           <model>recommend</model>
+       </models>
+    </server>
+    <server name = 'brandfind'>
+       <log>brandfind</log>
+       <modelpath>brandfind/model</modelpath>
+       <conf>brandfind/conf</conf>
+       <models>
+           <model>car-1200#汽车#2</model>
+           <model>xiaomi#小米#1</model>
+           <model>phone#手机数码#3</model>
+           <model>muying#母婴#4</model>
+           <model>sport-6#运动健身#5</model>
+           <model>tv-7#娱乐节目#6</model>
+           <model>hzp-5#化妆品#7</model>
+       </models>
+    </server>
+</servers>
